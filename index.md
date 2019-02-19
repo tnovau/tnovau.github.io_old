@@ -4,3 +4,6 @@
 
 layout: home
 ---
+<p style="text-align:center;">
+<img src="/assets/images/profile.jpg" alt="My helpful screenshot" style="border-radius: 50%;height: 250px;">
+</p>

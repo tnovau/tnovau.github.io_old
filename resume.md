@@ -123,7 +123,7 @@ Feb 2018 – Jul 2018 - Holistor Platform
 - Use of JIRA for project management.
 - Usage of EF Core.
 
-Feb 2018 – Jul 2018 -  I+D
+Feb 2018 – Jul 2018 - I+D
 #### Researchs:
 
 - Usage of Docker as container engine.
@@ -198,5 +198,38 @@ Aug 2016 – Sep 2016 - Internship
 - SQL Server 2012 training.
 - Introduction to Data Warehouse.
 - Introduction to Integration Services.
+
+# Freelance Projects
+## K. Moody And Associates (kmaac.com)
+May 2018 - Today
+
+- Mantainance of a news related mobile app for Android and iOS, using Ionic.
+- Integration with Disqus, Wordpress, Youtube, SoundCloud and OneSignal.
+
+# Education
+## System Engineering (In Progress)
+Universidad Tecnológica Nacional, Rosario, Argentina\
+March 2014 - Today
+
+## BS in Informatics
+Instituto Privado Fray Luis Beltrán, San Nicolás, Argentina\
+November 2013
+
+# More About Me
+## Languages
+- Spanish: Native Speaker.
+- English: Advanced level.
+- German: Initial level.
+
+## Scolarships
+- DAAD 2018 Scolarships(preselected)
+- “Beca al Mérito Fundación Roca” (2012-2013)
+- “Beca Fundación Acindar” (2008-2011)
+
+## I+D
+### 2016 – Research project IISIDRO at university.
+Developìng of web app.\
+Use of Angular.js, and gulp.
+
 </div>
 </div>

@@ -67,6 +67,7 @@ permalink: /resume/
 - __CSS__
 - __Sass__
 - XAML
+- __Material-ui__
 
 </div>
 <div class="col-md-9">

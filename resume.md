@@ -32,6 +32,8 @@ permalink: /resume/
 - Angular.js
 - __Node.js__
 - __Express.js__
+- React.js
+- Mobx.js
 
 #### ORMS/ODMS
 - Entity Fwk Core

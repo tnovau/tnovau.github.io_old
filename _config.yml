@@ -16,7 +16,7 @@
 title: Tomás Novau
 email: tnovau@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software Developer, javascript enthusiast, based in Rosario, Argentina.
+  Software Developer, javascript enthusiast, based in Barcelona, Spain.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

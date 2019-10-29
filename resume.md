@@ -159,7 +159,8 @@ Feb 2018 – Jul 2018 - Holistor Platform
 - Google Maps and Geocoding integration.
 - Usage of JWT and ASP.NET MVC to authenticate against CMS Blogifier.
 - Use of Docker as container engine.
-- Use of Kubernetes as container orchestration engine in IBM cloud and Docker compose for local development.
+- Use of Kubernetes as container orchestration engine in IBM cloud and Docker compose for local 
+ment.
 - Use of JIRA for project management.
 - Usage of EF Core.
 
@@ -248,11 +249,11 @@ May 2018 - Today
 
 # Education
 ## System Engineering (In Progress)
-Universidad Tecnológica Nacional, Rosario, Argentina\
-March 2014 - Today
+Universidad Tecnológica Nacional, Rosario, Argentina<br/>
+March 2014 - 2018
 
 ## BS in Informatics
-Instituto Privado Fray Luis Beltrán, San Nicolás, Argentina\
+Instituto Privado Fray Luis Beltrán, San Nicolás, Argentina<br/>
 November 2013
 
 # More About Me
@@ -268,7 +269,7 @@ November 2013
 
 ## I+D
 ### 2016 – Research project IISIDRO at university.
-Developìng of web app.\
+Developing of web app.\
 Use of Angular.js, and gulp.
 
 </div>

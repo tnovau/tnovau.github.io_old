@@ -12,40 +12,50 @@ permalink: /resume/
 - __Back-end__
 - __Mobile Cross-Platform__
 - Devops
-- Unit testing
+- __Unit testing__
 - Automation
 - Team leading
 
 #### Languages
 - __Typescript__
 - __Javascript__
-- C#
-- TSQL
-- Java
+- __C#__
+- __TSQL__
 
-#### Fwks/Runtimes
+#### Fwks/Runtimes/Libraries
 - __Angular 2+__
 - __Ionic__
-- ASP.NET Core
+- __ASP.NET Core__
 - Xamarin Forms
 - ASP.NET Zero
 - Angular.js
 - __Node.js__
 - __Express.js__
-- React.js
+- __React.js__
 - Mobx.js
+- __Redux.js__
+- __Joi.js__
+- Redux-thunk
 
 #### ORMS/ODMS
 - Entity Fwk Core
 - __Mongoose__
 - Realm
+- __NHibernate__
 
 #### Unit testing
 - Jasmine
 - __Mocha__
 - __Chai__
-- Jest
+- __Sinon.js__
+- __Jest__
 - NUnit
+- __XUnit__
+- __JustMock__
+- AutoFac
+- Fixie
+- __Shouldly__
+- __AutoFixture__
 
 #### Automation
 - Selenium Java
@@ -55,11 +65,13 @@ permalink: /resume/
 - __Docker__
 - Kubernetes
 - Jenkins
+- __Azure Devops Pipelines__
 
 #### Cloud Providers
 - IBM Bluemix
 - Heroku
-- __AWS__
+- AWS
+- __Azure__
 
 #### Layout
 - Bootstrap
@@ -74,8 +86,33 @@ permalink: /resume/
 
 # Professional Experience
 
+## ALTRAN(Axa Assistance Client) - Full-stack dev
+Apr 2019 - Today
+
+#### Responsabilities:
+- Mantainance of a .NET Framework backend app writed in C#.
+- Mantainance of a React-Redux frontend app writed using js.
+- Unit tests implementation from scratch, sometimes using TDD.
+- Integration tests implementation from scratch.
+- Monitoring app environments using Azure portal.
+- Configuring and managing CI/CD using Azure Devops pipelines.
+- Mocking third party dependencies for local usage.
+- Writing SQL Migrations for database updates.
+- Writing unit testing for the frontend app.
+- Writing code reviews, making manual testing, participating in SCRUM ceremonies.
+
+#### Tools
+- Usage of NHibernate ORM and ITextSharp for the backend app.
+- Usage of XUnit, JustMock, AutoFac & AutoFixture for unit tests implementation
+- Usage of Fixie, JustMock, AutoFixture and Shouldly for the integration tests implementation.
+- Usage of node, express, dotenv and Joi(for validations) for the third party mock.
+- Usage of TSQL for SQL Migrations.
+- Usage of React / Redux & redux-thunk middleware for the frontend.
+- Usage of jest for the frontend unit testing.
+- Usage of Microsoft Azure Devops suite.
+
 ## Whyline, INC - Full-stack dev
-Nov 2018 – Today
+Nov 2018 – Apr 2019
 
 #### Responsabilities:
 - Mantainance of a social network backend app writed in typescript and javascript built onto Node.js and express.
